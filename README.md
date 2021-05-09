@@ -7,7 +7,9 @@ This final project aims to find out the characteristics of the most succesful mo
 This repository contains only one ipynb file and one csv file.
 
 The unique ipynb file is:
+
 "python fundamentals project.ipynb" - This code is used to explore, clean and preprocess "googleplaystore.csv", and to analyze this dataset.
 
 The unique csv file is:
+
 "googleplaystore.csv" - This is the original dataset, extracted from kaggle: https://www.kaggle.com/lava18/google-play-store-apps
