@@ -1,4 +1,4 @@
-# Dataquest-Python-Fundamentals-Project
+# dataquest-python-fundamentals
 
 The following is the final project of the Dataquest's Python Fundamentals course. The objective is to analyze the google playstore database with pure Python, avoiding the use of libraries such as Pandas or Numpy.
 
